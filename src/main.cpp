@@ -80,7 +80,7 @@ int main(int argc, char* args[])
 
     srand(time(0));
 
-    for (int i = 0; i < 5000; ++i)
+    for (int i = 0; i < 1000; ++i)
     {
     	string obstacleTexturePath = "res/gfx/" + obstacleTextures[rand() % obstacleTextures.size()];
         SDL_Texture* obstacleTexture = window.loadTexture(obstacleTexturePath.c_str());
