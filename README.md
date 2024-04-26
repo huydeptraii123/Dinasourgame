@@ -1,12 +1,24 @@
 # Super Chrome Running Dinasour - T_Rex-NSH-Edition
 
 
-- Thử nghiệm game :
+- Giới thiệu game: https://youtu.be/v7n-TQNQvds
 
 
 # Giới thiệu game
 
-Super Chrome Running Dinasour là 1 game đơn giản kế thừa ý tưởng từ trò chơi khủng long ở trên trình duyệt Chrome. Người chơi có nhiệm vụ giúp chú khủng long chạy qua những chướng ngại vật trên đường đi của nó. Vì đây là một đoạn đường dài vô tận với vô vàn những chướng ngại vật nguy hiểm, Super Chrome Running Dinasour có thể giúp người chơi giải trí sau những giờ học Lập Trình Nâng Cao căng thẳng.
+Super Chrome Running Dinasour là 1 game đơn giản kế thừa ý tưởng từ trò chơi khủng long ở trên trình duyệt Chrome.
+![Super T-Rex v1 0 25_4_2024 8_08_31 PM](https://github.com/huydeptraii123/Dinasourgame/assets/160690721/a7748bec-3ea6-4cb9-9710-159e1ae25af0)
+
+Chướng ngại vật sẽ xuất hiện để cản bước chú khủng long.
+![Dinasourgame-master 25_4_2024 8_08_08 PM](https://github.com/huydeptraii123/Dinasourgame/assets/160690721/9a42979f-115b-4b8c-a983-6cafcfc7b013)
+
+Bạn có nhiệm vụ giúp chú khủng long vượt qua vật cản.
+![Super T-Rex v1 0 25_4_2024 8_16_47 PM](https://github.com/huydeptraii123/Dinasourgame/assets/160690721/5a64c97b-c491-4a63-ab10-5c3acef4b56d)
+
+Khi đâm phải chướng ngại vật, game sẽ dừng lại, bạn sẽ thua và trò chơi sẽ kết thúc, điểm của bạn sẽ được hiện ra.
+![Screenshot 2024-04-26 163136](https://github.com/huydeptraii123/Dinasourgame/assets/160690721/2f43fb3b-2516-4e5d-8fa3-a98aa97d3480)
+
+Vì đây là một đoạn đường dài vô tận với vô vàn những chướng ngại vật nguy hiểm, Super Chrome Running Dinasour có thể giúp người chơi giải trí sau những giờ học Lập Trình Nâng Cao căng thẳng.
 
 # Cấu trúc game
 
@@ -20,7 +32,7 @@ Cấu trúc của game gồm có 2 phần chính:
 
 ## 2. Chướng ngại vật 
 Đây là những vật mà chú khủng long cùng với người chơi cần vượt qua bao gồm:
-|                         | Tên cây	     | Nguồn ảnh |
+|                         | Chướng Ngại Vật	     | Nguồn ảnh |
 |-------------------------------------------|----------------|----------------|
 | <img src="res/gfx/cactus.png" width=50>  |   Cây xương rồng	  | https://pixelartmaker.com/art/1094083e72eb64e |
 | <img src="res/gfx/A.png" width=50>  |   Messi	  | https://opensea.io/collection/cyberpunk-style-of-messi-nft/activity |
