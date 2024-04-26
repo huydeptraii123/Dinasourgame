@@ -12,7 +12,7 @@ Super Chrome Running Dinasour là 1 game đơn giản kế thừa ý tưởng t�
 Chướng ngại vật sẽ xuất hiện để cản bước chú khủng long.
 ![Dinasourgame-master 25_4_2024 8_08_08 PM](https://github.com/huydeptraii123/Dinasourgame/assets/160690721/9a42979f-115b-4b8c-a983-6cafcfc7b013)
 
-Bạn có nhiệm vụ giúp chú khủng long vượt qua vật cản.
+Bạn có nhiệm vụ giúp chú khủng long vượt qua vật cản bằng cách ấn SPACE.
 ![Super T-Rex v1 0 25_4_2024 8_16_47 PM](https://github.com/huydeptraii123/Dinasourgame/assets/160690721/5a64c97b-c491-4a63-ab10-5c3acef4b56d)
 
 Khi đâm phải chướng ngại vật, game sẽ dừng lại, bạn sẽ thua và trò chơi sẽ kết thúc, điểm của bạn sẽ được hiện ra.
